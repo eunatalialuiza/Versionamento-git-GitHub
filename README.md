@@ -86,4 +86,6 @@ git reflog                     # Permite visualizar todas as alterações realiz
 
 
 
+- [Link Git teacher com mais informarções e resumos do curso:] (https://github.com/elidianaandrade/dio-curso-git-github)
+
 
